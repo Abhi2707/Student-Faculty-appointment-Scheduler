@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1 align="center">Welcome to the teacher status portal</h1>	
+<h1 align="center">Jai Ho!!!!</h1>	
 </head>
 <body>
 
